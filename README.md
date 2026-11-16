@@ -1,5 +1,9 @@
 # Small-Engine-
+
 ##overview 
+
+[
+](https://github.com/adonfr/Small-Engine-/blob/1721bffdfc8129a2d1c2214453c6bbb392a3bf70/Screenshot%202026-11-04%2011.27.51%20AM.png)
 
 A car engine with one piston mechanism with two gears that technically an i engine it has a spark plug and almost every thing needed for an engine
 the engine is a mostly made out of plastice cause the price for  oil is expenive and plastice doesn't rely on oil for it to be smooth and not get any thing damaged 
