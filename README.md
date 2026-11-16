@@ -1,5 +1,6 @@
 # Small-Engine-
-overview 
+##overview 
+
 A car engine with one piston mechanism with two gears that technically an i engine it has a spark plug and almost every thing needed for an engine
 the engine is a mostly made out of plastice cause the price for  oil is expenive and plastice doesn't rely on oil for it to be smooth and not get any thing damaged 
 the gears ands pistons are mostly metal for it to work perfectly why cause we need weight 
@@ -10,15 +11,43 @@ it uses a mechain similar to a spark plug but if we want to make it faster and s
 how do you trun it on you just use the mechain that rablced the sprk plug 
 since the wholle engine is open and made of visble plastice to see how it works there is no need to use complex things to trun it on and see how it works 
 
-#features 
+##features 
+
+
 two gears one is 2 in wide with an inside whole measuring .5 in 
+
 the other one is 4 in wide with an inside whole measuring .375 in
+
 one piston and no its not a I1 
+
 crank shaft 
+
 piston pin
+
 crank case
+
 2 rocker 
+
 push rod 
+
 connecting rod
+
 head
+
 head block
+
+
+##hard ware
+
+
+### Bill of Materials
+Description | Qty | Price | 
+|---|---|---|
+|  gears  | 2| 60$ |
+| piston | 1 | 100$ |
+| piston driver | 1 | 30$|
+ | mechain similar to a spark plug | 1 | 39.99$ | 
+ | Stepper motor power | 1 | 15$ | 
+ | | | **Total:$245** |
+
+to cut on costs most of the other parts are going to be 3D printed 
