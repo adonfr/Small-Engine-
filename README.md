@@ -57,5 +57,6 @@ to cut on costs most of the other parts are going to be 3D printed
 
 ASSEMBLY
 
+<img src="https://github.com/adonfr/Small-Engine-/blob/main/Screenshot%202026-11-11%209.06.34%20AM.png?raw=true" alt="Screenshot 2026-11-11 9.06.34 AM.png"/>
 
 
