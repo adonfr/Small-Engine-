@@ -54,3 +54,8 @@ Description | Qty | Price |
  | | | **Total:$245** |
 
 to cut on costs most of the other parts are going to be 3D printed 
+
+ASSEMBLY
+
+
+
