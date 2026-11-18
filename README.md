@@ -1,6 +1,6 @@
 # Small-Engine-
 
-##overview 
+##overview##
 
 <img src="https://github.com/adonfr/Small-Engine-/blob/main/Screenshot%202026-11-04%2011.27.51%20AM.png?raw=true" alt="Screenshot 2026-11-04 11.27.51 AM.png"/>
 
@@ -40,7 +40,7 @@ head
 head block
 
 
-##hard ware
+Hard ware
 
 
 ### Bill of Materials
@@ -51,7 +51,7 @@ Description | Qty | Price |
 | piston driver | 1 | 30$|
  | mechain similar to a spark plug | 1 | 39.99$ | 
  
- | | | **Total:$230** ||
+ | | | **Total:$230** |
 
 to cut on costs most of the other parts are going to be 3D printed 
 
