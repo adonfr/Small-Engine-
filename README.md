@@ -50,7 +50,6 @@ Description | Qty | Price |
 | piston | 1 | 100$ |
 | piston driver | 1 | 30$|
  | mechain similar to a spark plug | 1 | 39.99$ | 
- 
  | | | **Total:$230** |
 
 to cut on costs most of the other parts are going to be 3D printed 
